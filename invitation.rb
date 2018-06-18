@@ -1,11 +1,4 @@
-# Code your prompts here!
 
-# Try starting out with puts'ing a string.
-guest_name="Voldemort"
-party_name="Best Halloween Party Ever"
-date="October 30"
-time="6 pm"
-host_name="Harry Potter"
 
 puts "Dear #{guest_name},
 
